@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "id": 111,
+      "customerName": "David Doe",
+      "yearbirth": "1988",
+      "postcode": "9DU",
+      "balance": 87.54,
+      "clientName": "Tesco Mobile",
+      "reasonCharge": "Mobile phone",
+      "aicRef": "5900678",
+      "clientRef": "CF68990",
+      "dateAccount":" 2020-07-20 16:27:38.000"
+    },
+    {
+      "id": 124,
+      "customerName": "Max Doe",
+      "yearbirth": "1963",
+      "postcode": "9DA",
+      "balance": 87.54,
+      "clientName": "Ovo Energie",
+      "reasonCharge": "Electricity",
+      "aicRef": "5900679",
+      "clientRef": "CF68991",
+      "dateAccount": "2020-07-31 18:31:38.000"
+    },
+    {
+      "id": 123,
+      "customerName": "Jhon Doe",
+      "yearbirth": "2001",
+      "postcode": "9DE",
+      "balance": 87.54,
+      "clientName": "Tesco Mobile",
+      "reasonCharge": "Mobile Phone",
+      "aicRef": "5901678",
+      "clientRef": "CF68992",
+      "dateAccount": "2020-07-21 15:35:38.000"
+    },
+    {
+      "id": 112,
+      "customerName": "Alex Doe",
+      "yearbirth": "1998",
+      "postcode": "9DL",
+      "balance": 87.54,
+      "clientName": "Scottish Hydro",
+      "reasonCharge": "Electricity",
+      "aicRef": "6000678",
+      "clientRef": "CF68993",
+      "dateAccount": "2020-08-02 12:33:38.000"
+    }
+  ]
+}
