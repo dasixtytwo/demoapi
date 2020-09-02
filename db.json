@@ -48,5 +48,61 @@
       "clientRef": "CF68993",
       "dateAccount": "2020-08-02 12:33:38.000"
     }
+  ],
+  "dtcustomer": [
+    {
+      "customerId": 78869990,
+      "firstname": "James",
+      "surname": "Burley",
+      "mobileNumber": "+44 775 9483 873",
+      "postcode": "G55 9DU",
+      "campaignEnrolled": "Campaign ABC",
+      "enrollmentDate": "25/04/2020"
+    },
+    {
+      "customerId": 78869991,
+      "firstname": "James",
+      "surname": "Doe",
+      "mobileNumber": "+44 775 9483 683",
+      "postcode": "G54 8DU",
+      "campaignEnrolled": "Ovo Energie",
+      "enrollmentDate": "30/04/2020"
+    },
+    {
+      "customerId": 78869992,
+      "firstname": "James",
+      "surname": "Burley",
+      "mobileNumber": "+44 775 9483 873",
+      "postcode": "G55 9DU",
+      "campaignEnrolled": "Campaign ABC",
+      "enrollmentDate": "25/04/2020"
+    },
+    {
+      "customerId": 78869993,
+      "firstname": "James",
+      "surname": "Burley",
+      "mobileNumber": "+44 775 9483 873",
+      "postcode": "G55 9DU",
+      "campaignEnrolled": "Ovo Energie",
+      "enrollmentDate": "25/04/2020"
+    },
+    {
+      "customerId": 78869994,
+      "firstname": "James",
+      "surname": "Burley",
+      "mobileNumber": "+44 775 9483 873",
+      "postcode": "G55 9DU",
+      "campaignEnrolled": "Campaign ABC",
+      "enrollmentDate": "10/07/2020"
+    },
+    {
+      "customerId": 78869995,
+      "firstname": "John",
+      "surname": "Doe",
+      "mobileNumber": "+44 775 9483 883",
+      "postcode": "G55 9DU",
+      "campaignEnrolled": "Ovo Energie",
+      "enrollmentDate": "27/06/2020"
+    }
   ]
 }
